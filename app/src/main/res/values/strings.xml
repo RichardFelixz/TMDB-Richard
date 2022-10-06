@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMDB Richard</string>
+    <string name="cast">Cast</string>
+    <string name="popularMovies">Popular</string>
+</resources>
